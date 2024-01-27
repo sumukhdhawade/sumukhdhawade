@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sumukh!
 - ⚡️ I’m passionate about movies, music and technology.
-- 🚀 I’m currently learning web development.
-- 🐦 Connect with me on twitter @sumukhdh
+- 📊 I'm an aspiring Business Analyst.
+- 🚀 I do web development as a personal hobby.
+- 🐦 Connect with me on Twitter @sumukhdh
 
 <!---
 sumukhdhawade/sumukhdhawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
